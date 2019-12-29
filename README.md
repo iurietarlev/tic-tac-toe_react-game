@@ -1,5 +1,7 @@
 # tic-tac-toe_react-game
-Basic React Tutorial to build a "tic tac toe" game
+In this project I have implemented a basic "tic tac toe" game using ReactJS. The game can be accessed via the following github pages link: https://iurietarlev.github.io/tic-tac-toe_react-game/. 
+
+The styling has been set up in the CSS file. The React tutorial followed for implementation of this game can be accessed via this link: https://reactjs.org/tutorial/tutorial.html.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
