@@ -1,5 +1,5 @@
 # tic-tac-toe_react-game
-In this project I have implemented a basic "tic tac toe" game using ReactJS. The game can be accessed via the following github pages link: https://iurietarlev.github.io/tic-tac-toe_react-game/. 
+In this project I have implemented a basic "tic tac toe" game using ReactJS. The game can be accessed via the following GitHub pages link: https://iurietarlev.github.io/tic-tac-toe_react-game/. 
 
 The styling has been set up in the CSS file. The React tutorial followed for implementation of this game can be accessed via this link: https://reactjs.org/tutorial/tutorial.html.
 
@@ -71,3 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Deploying React App to GitHub Pages
+Details about this topic can be found here: https://github.com/gitname/react-gh-pages
