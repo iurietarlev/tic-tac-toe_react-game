@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b286c461fdca2489e0108b090688ff6c",
+    "revision": "97c27a0b88a3aac02caa73c043d34ce7",
     "url": "/tic-tac-toe_react-game/index.html"
   },
   {
-    "revision": "4510c109e7a727058099",
-    "url": "/tic-tac-toe_react-game/static/css/main.b52211d8.chunk.css"
+    "revision": "5fc1c96ca2c2f5acc99d",
+    "url": "/tic-tac-toe_react-game/static/css/main.6c9ccaa4.chunk.css"
   },
   {
     "revision": "d89ee6acc5876b60ae44",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tic-tac-toe_react-game/static/js/2.99114f26.chunk.js.LICENSE"
   },
   {
-    "revision": "4510c109e7a727058099",
-    "url": "/tic-tac-toe_react-game/static/js/main.9a866943.chunk.js"
+    "revision": "5fc1c96ca2c2f5acc99d",
+    "url": "/tic-tac-toe_react-game/static/js/main.47c4c4d0.chunk.js"
   },
   {
     "revision": "b805d55ab74e26fd5071",
